@@ -59,7 +59,7 @@
 ### [steghide](https://steghide.sourceforge.net)
 - a steganography program that is able to hide data in various kinds of image and audio files.
 
-### yt-[dlp](https://github.com/yt-dlp/yt-dlp)
+### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - Feature-rich command-line audio/video downloader
 
 ### [ffmpeg](https://ffmpeg.org)
