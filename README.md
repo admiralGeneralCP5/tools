@@ -1,3 +1,17 @@
+# Terminal Emulators
+
+### [Alacritty](https://github.com/alacritty/alacritty)
+
+### [iTerm2](https://iterm2.com/) 
+
+### [Kitty](https://sw.kovidgoyal.net/kitty/)
+
+### [Warp](https://www.warp.dev)
+
+### [wezTerm](https://wezfurlong.org/wezterm/index.html)
+
+
+
 # General Terminal Stuff 
 
 ### [bat](https://github.com/sharkdp/bat)
@@ -8,26 +22,28 @@
 - colorful ls
 
 ### [btop](https://github.com/aristocratos/btop)
-- Resource monitor
+- resource monitor
 
 ### [neofetch](https://github.com/dylanaraps/neofetch)
-- Pretty system info
+- pretty system info
 
 ### [tmux](https://github.com/tmux/tmux/wiki)
-- Terminal multiplexer
+- terminal multiplexer
 
 ### [progress](https://github.com/Xfennec/progress)
 - progress for when moving files
 
+### [thefuck](https://github.com/nvbn/thefuck)
+- error correction for previous terminal commands
 
 
 # Text Editors
 
 ### [neovim](https://neovim.io)
-- Vim but better, with many plugins available
+- vim but better, with many plugins available
 
 ### [nano](https://www.nano-editor.org)
-- Simple and easey to use
+- simple and easey to use
 
 
 
@@ -60,7 +76,7 @@
 - a steganography program that is able to hide data in various kinds of image and audio files.
 
 ### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- Feature-rich command-line audio/video downloader
+- command-line audio/video downloader
 
 ### [ffmpeg](https://ffmpeg.org)
 - Play, record, convert, and stream audio and video
